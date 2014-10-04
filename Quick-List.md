@@ -9,6 +9,7 @@ Compiling different sets of recommended courses, not restricted (just recommende
 * typography
 * Javascript-101
   * d3 elective
+  * three.js elective
 * FOSS-101
   * Advanced GIMP elective
 * Node
@@ -21,6 +22,7 @@ Compiling different sets of recommended courses, not restricted (just recommende
 * Data Presentation Tools
   * Intro to Web-design
   * d3-elective
+  * Three.js elective
   * node.js
   * Javascript-101
 * Statistical Tool Overview
@@ -45,7 +47,10 @@ Compiling different sets of recommended courses, not restricted (just recommende
 * Windows Phone
   * //TODO
   
-
+* Wearable Design Path
+  * Iphone
+  * Android
+  * Windows
 
 ## HW Path
 
@@ -55,6 +60,13 @@ Compiling different sets of recommended courses, not restricted (just recommende
 * embedded Android
   * BeagleBone Black
   * PandaBoard Rev3
+
+## Virtual Reality (VR) Dev Path
+
+
+* 
+* Three.js
+
 
 ## NPO Path
 
