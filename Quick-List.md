@@ -14,7 +14,7 @@ Compiling different sets of recommended courses, not restricted (just recommende
 * Node
 
 
-# Data-Analysis Path
+## Data-Analysis Path
 
 
 * Sage
@@ -30,10 +30,31 @@ Compiling different sets of recommended courses, not restricted (just recommende
   * Scala
   * Clojure
 
+## Mobile App Dev
 
-# HW Path
+* IPhone
+  * swift 
 
 
+* Android
+  * Java-101 through advanced
+  * C (for ndk)
+  * Android Studio Class (phasing out Eclipse)
+
+
+* Windows Phone
+  * //TODO
+  
+
+
+## HW Path
+
+* embedded linux
+  * Raspberry Pi
+  * BeagleBone Black
+* embedded Android
+  * BeagleBone Black
+  * PandaBoard Rev3
 
 ## NPO Path
 
