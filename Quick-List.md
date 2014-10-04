@@ -8,9 +8,31 @@ Compiling different sets of recommended courses, not restricted (just recommende
 * Mobile-first templates -- Design with Bootstrap
 * typography
 * Javascript-101
+  * d3 elective
 * FOSS-101
   * Advanced GIMP elective
 * Node
+
+
+# Data-Analysis Path
+
+
+* Sage
+* Data Presentation Tools
+  * Intro to Web-design
+  * d3-elective
+  * node.js
+  * Javascript-101
+* Statistical Tool Overview
+  * R
+  * python
+* Functional Programming
+  * Scala
+  * Clojure
+
+
+# HW Path
+
 
 
 ## NPO Path
