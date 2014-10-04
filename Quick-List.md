@@ -61,11 +61,34 @@ Compiling different sets of recommended courses, not restricted (just recommende
   * BeagleBone Black
   * PandaBoard Rev3
 
+
+
+## Game Development Path
+
+### 3D templates:
+
+* Unity 3D
+* Javascript
+  * Three.js
+
+### 2D Templates:
+
+* Unity 2D (*new*)
+* Javascript/HTML5-Canvas
+
+### Native Game Dev Paths:
+* Iphone
+* Android
+* Windows
+
+
 ## Virtual Reality (VR) Dev Path
 
-
-* 
+* Android 
+  * Project Tango
+  * Cardboard
 * Three.js
+* Unity
 
 
 ## NPO Path
