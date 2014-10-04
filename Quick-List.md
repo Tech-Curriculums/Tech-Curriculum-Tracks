@@ -1,5 +1,21 @@
+Compiling different sets of recommended courses, not restricted (just recommended) for different paths.
 
 
+## Website Path
+
+//TODO
+
+* Mobile-first templates -- Design with Bootstrap
+* typography
+* Javascript-101
+* FOSS-101
+  * Advanced GIMP elective
+* Node
+
+
+## NPO Path
+
+//TODO
 
 ## Start-up path
 
